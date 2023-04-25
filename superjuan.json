@@ -1,0 +1,266 @@
+[
+    { "supermercados": 
+        [
+            {   "nombre": "DIA",
+                "direccion": {
+                    "calle": "Av. Dr. Fleming", 
+                    "numero": 30,
+                    "cp": 45210, 
+                    "municipio" : "Yuncos",
+                    "provincia": "Toledo"},
+                "geolocalizacion": {
+                    "n": 40.09104,
+                    "o": -3.87508  },
+                "productos": [
+                    {
+                        "fruteria": {
+                            "manzanas": {
+                                "formato": "granel",
+                                "precioHabitual": "0.95",
+                                "precioPromocion": "0.88"
+                            },
+                            "peras": {
+                                "formato": "granel",
+                                "precioHabitual": "0.98" ,
+                                "precioPromocion": "0.90" 
+                            },
+                            "platanos": {
+                                "formato": "granel",
+                                "precioHabitual": "1.45" ,
+                                "precioPromocion": "0.96" 
+                            },
+                            "naranjas": {
+                                "formato": "granel",
+                                "precioHabitual": "1.15" ,
+                                "precioPromocion": "0.95" 
+                            }
+                        }
+                    },
+                    {
+                        "drogueria": {
+                            "detergente": {
+                                "formato": "48 lavados",
+                                "precioHabitual": "4.95",
+                                "precioPromocion": "4.88"
+                            },
+                            "suavizante": {
+                                "formato": "82 lavados",
+                                "precioHabitual": "1.98" ,
+                                "precioPromocion": "1.85" 
+                            },
+                            "friegaplatos": {
+                                "formato": "500 ml",
+                                "precioHabitual": "1.15" ,
+                                "precioPromocion": "0.95" 
+                            },
+                            "lejia": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.90" ,
+                                "precioPromocion": "0.80" 
+                            }
+                        }
+                    },
+                    {
+                        "lacteos":{
+                            "leche": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.95",
+                                "precioPromocion": "0.90"
+                            },
+                            "yogures": {
+                                "formato": "pack 8",
+                                "precio": "1.25" ,
+                                "precioPromocion": "1.20" 
+                            },
+                            "queso": {
+                                "formato": "cuña 250 gr",
+                                "precio": "1.45" ,
+                                "precioPromocion": "1.26" 
+                            },
+                            "mantequilla": {
+                                "formato": "500 gr",
+                                "precio": "1.55" ,
+                                "precioPromocion": "1.45" 
+                            }
+                        }
+                    }
+                ]
+
+            },
+
+            {   "nombre": "MERCADONA",
+                "direccion": {
+                    "calle": "Av. Castilla la Mancha", 
+                    "numero": 6,
+                    "cp": 45210, 
+                    "municipio" : "Yuncos",
+                    "provincia": "Toledo"},
+                "geolocalizacion": {
+                    "n": 40.08585,
+                    "o": -3.86681  },
+                "productos": [
+                    {
+                        "fruteria": {
+                            "manzanas": {
+                                "formato": "granel",
+                                "precioHabitual": "0.91",
+                                "precioPromocion": "0.91"
+                                },
+                            "peras": {
+                                "formato": "granel",
+                                "precioHabitual": "0.98" ,
+                                "precioPromocion": "0.98" 
+                                },
+                            "platanos": {
+                                "formato": "granel",
+                                "precioHabitual": "1.55" ,
+                                "precioPromocion": "1.55" 
+                                },
+                            "naranjas": {
+                                "formato": "granel",
+                                "precioHabitual": "1.20" ,
+                                "precioPromocion": "1.20" 
+                                }
+                        }
+                    },
+                    {
+                        "drogueria": {
+                            "detergente": {
+                                "formato": "48 lavados",
+                                "precioHabitual": "4.95",
+                                "precioPromocion": "4.95"
+                                },
+                            "suavizante": {
+                                "formato": "82 lavados",
+                                "precioHabitual": "1.85" ,
+                                "precioPromocion": "1.85" 
+                                },
+                            "friegaplatos": {
+                                "formato": "500 ml",
+                                "precioHabitual": "1.35" ,
+                                "precioPromocion": "1.35" 
+                                },
+                            "lejia": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.92" ,
+                                "precioPromocion": "0.92" 
+                                }
+                        }
+                    },
+                    {
+                        "lacteos":{
+                            "leche": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.94",
+                                "precioPromocion": "0.94"
+                                },
+                            "yogures": {
+                                "formato": "pack 8",
+                                "precioHabitual": "1.30" ,
+                                "precioPromocion": "1.30" 
+                                },
+                            "queso": {
+                                "formato": "cuña 250 gr",
+                                "precioHabitual": "1.75" ,
+                                "precioPromocion": "1.75" 
+                                },
+                            "mantequilla": {
+                                "formato": "500 gr",
+                                "precioHabitual": "1.60" ,
+                                "precioPromocion": "1.60" 
+                                }
+                        }
+                    }
+                ]
+
+            },
+
+            {"nombre": "AHORRAMAS",
+                "direccion": {
+                    "calle": "Av.Ramon y Cajal", 
+                    "numero": "s/n",
+                    "cp": 45210, 
+                    "municipio" : "Yuncos",
+                    "provincia": "Toledo"},
+                "geolocalizacion": {
+                    "n": 40.08657,
+                    "o": -3.87024  },
+                "productos": [
+                    {
+                        "fruteria": {
+                            "manzanas": {
+                               "formato": "granel",
+                               "precioHabitual": "0.95",
+                               "precioPromocion": "0.88"
+                                },
+                            "peras": {
+                               "formato": "granel",
+                               "precioHabitual": "0.98" ,
+                               "precioPromocion": "0.90" 
+                                },
+                            "platanos": {
+                               "formato": "granel",
+                               "precioHabitual": "1.45" ,
+                               "precioPromocion": "0.96" 
+                                },
+                            "naranjas": {
+                               "formato": "granel",
+                               "precioHabitual": "1.15" ,
+                               "precioPromocion": "0.95" 
+                                }
+                            }
+                    },
+                    {
+                        "drogueria": {
+                            "detergente": {
+                                "formato": "48 lavados",
+                                "precioHabitual": "4.95",
+                                "precioPromocion": "4.88"
+                                },
+                            "suavizante": {
+                                "formato": "82 lavados",
+                                "precioHabitual": "1.98" ,
+                                "precioPromocion": "1.85" 
+                                },
+                            "friegaplatos": {
+                                "formato": "500 ml",
+                                "precioHabitual": "1.15" ,
+                                "precioPromocion": "0.95" 
+                                },
+                            "lejia": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.90" ,
+                                "precioPromocion": "0.80" 
+                                }
+                            }
+                    },
+                    {
+                        "lacteos":{
+                            "leche": {
+                                "formato": "1 litro",
+                                "precioHabitual": "0.95",
+                                "precioPromocion": "0.90"
+                                },
+                            "yogures": {
+                                "formato": "pack 8",
+                                "precioHabitual": "1.25" ,
+                                "precioPromocion": "1.20" 
+                                },
+                            "queso": {
+                                "formato": "cuña 250 gr",
+                                "precioHabitual": "1.45" ,
+                                "precioPromocion": "1.26" 
+                                },
+                            "mantequilla": {
+                                "formato": "500 gr",
+                                "precioHabitual": "1.55" ,
+                                "precioPromocion": "1.45" 
+                                }
+                            }
+                    }
+                ]
+
+            }
+        ]
+    }
+]

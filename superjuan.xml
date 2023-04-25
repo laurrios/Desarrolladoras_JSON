@@ -1,0 +1,244 @@
+<supermercados>
+    <nombre>DIA</nombre>,
+        <dirección>
+            <calle>Av. Dr. Fleming</calle> 
+            <numero> 30</numero>
+            <cp>45210</cp> 
+            <municipio>Yuncos</municipio>
+            <provincia>Toledo</provincia>
+        </direccion>
+        <geolocalizacion>
+            <n>40.09104</n>
+            <o>-3.87508</o>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                <manzanas>
+                    <formato>granel</formato>
+                    <precioHabitual>0.95</precioHabitual>
+                    <precioPromocion>0.88</precioPromocion>
+                </manzanas>
+                <peras>
+                    <formato>granel</formato>
+                    <precioHabitual>0.98</precioHabitual>
+                    <precioPromocion>0.90</precioPromocion>
+                </peras>
+                <platanos>
+                    <formato>granel</formato>
+                    <precioHabitual>1.45</precioHabitual>
+                    <precioPromocion>0.96</precioPromocion>
+                </platanos>
+                <naranjas>
+                    <formato>granel</formato>
+                    <precioHabitual>1.15</precioHabitual>
+                    <precioPromocion>0.95</precioPromocion>
+                </naranjas>
+            </fruteria>
+            <drogueria>
+                <detergente>
+                    <formato>48 lavados</formato>
+                    <precioHabitual>4.95</precioHabitual>
+                    <precioPromocion>4.88</precioPromocion>
+                </detergente>
+                <suavizante>
+                    <formato>82 lavados</formato>
+                    <precioHabitual>1.98</precioHabitual>
+                    <precioPromocion>1.85</precioPromocion> 
+                </suavizante>
+                <friegaplatos>
+                    <formato>500 ml</formato>
+                    <precioHabitual>1.15</precioHabitual>
+                    <precioPromocion>0.95</precioPromocion>
+                </friegaplatos>
+                <lejia>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.90</precioHabitual>
+                    <precioPromocion>0.80</precioPromocion>
+                </lejia>
+            </drogueria>
+            <lacteos>
+                <leche>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.95</precioHabitual>
+                    <precioPromocion>0.90</precioPromocion>
+                </leche>
+                <yogures>
+                    <formato>pack 8</formato>
+                    <precioHabitual>1.25</precioHabitual>
+                    <precioPromocion>1.20</precioPromocion>
+                </yogures>
+                <queso>
+                    <formato>cuña 250 gr</formato>
+                    <precioHabitual>1.45</precioHabitual>
+                    <precioPromocion>1.26</precioPromocion>
+                </queso>
+                <mantequilla>
+                    <formato>500 gr</formato>
+                    <precioHabitual>1.55</precioHabitual>
+                    <precioPromocion>1.45</precioPromocion>
+                </mantequilla>
+            </lacteos>
+        </productos> 
+
+    <nombre>MERCADONA</nombre>
+        <dirección>
+            <calle>Av. Castilla la Mancha</calle> 
+            <numero>6</numero>
+            <cp>45210</cp> 
+            <municipio>Yuncos</municipio>
+            <dprovincia>Toledo</provincia>
+        </dirección>
+        <geolocalizacion>
+            <n>40.08585</n>
+            <o>-3.86681</o>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                <manzanas>
+                    <formato>granel</formato>
+                    <precioHabitual>0.91</precioHabitual>
+                    <precioPromocion>0.91</precioPromocion>
+                </manzanas>
+                <peras>
+                    <formato>granel</formato>
+                    <precioHabitual>0.98</precioHabitual>
+                    <precioPromocion> "0.98</precioPromocion> 
+                </peras>
+                <platanos>
+                    <formato>granel</formato>
+                    <precioHabitual>1.55</precioHabitual>
+                    <precioPromocion>1.55</precioPromocion>
+                </platanos>
+                <naranjas>
+                    <formato>granel</formato>
+                    <precioHabitual>1.20</precioHabitual>
+                    <precioPromocion>1.20</precioPromocion>
+                </naranjas>
+            </fruteria>
+            <drogueria>
+                <detergente>
+                    <formato>48 lavados</formato>
+                    <precioHabitual>4.95</precioHabitual>
+                    <precioPromocion>4.95</precioPromocion>
+                </detergente>
+                <suavizante>
+                    <formato>82 lavados</formato>
+                    <precioHabitual>1.85</precioHabitual>
+                    <precioPromocion>1.85</precioPromocion>
+                </suavizante>
+                <friegaplatos>
+                    <formato>500 ml</formato>
+                    <precioHabitual>1.35</precioHabitual>
+                    <precioPromocion>1.35</precioPromocion>
+                </friegaplatos>
+                <lejia>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.92<precioHabitual>
+                    <precioPromocion>0.92</precioPromocion>
+                </lejia>
+            </drogueria>
+            <lacteos>
+                <leche>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.94</precioHabitual>
+                    <precioPromocion>0.94</precioPromocion>
+                </leche>
+                <yogures>
+                    <formato>pack 8</formato>
+                    <precioHabitual>1.30</precioHabitual>
+                    <precioPromocion>1.30</precioPromocion>
+                </yogures>
+                <queso>
+                    <formato>cuña 250 gr</formato>
+                    <precioHabitual>1.75</precioHabitual>
+                    <precioPromocion>1.75</precioPromocion>
+                </queso>
+                <mantequilla>
+                    <formato>500 gr</formato>
+                    <precioHabitual>1.60</precioHabitual>
+                    <precioPromocion>1.60</precioPromocion>
+                </mantequilla>
+            </lacteos>
+        </productos>
+
+    <nombre>AHORRAMAS</nombre>
+        <dirección>
+            <calle>Av.Ramon y Cajal</calle> 
+            <numero>s/n</numero>
+            <cp>45210</cp> 
+            <municipio>Yuncos</municipio>
+            <provincia>Toledo</provincia>
+        </dirección>
+        <geolocalizacion>
+            <n>40.08657</n>
+            <o>-3.87024</o>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                <manzanas>
+                    <formato>granel</formato>
+                    <precioHabitual>0.95</precioHabitual>
+                    <precioPromocion>0.88</precioPromocion>
+                </manzanas>
+                <peras>
+                    <formato>granel</formato>
+                    <precioHabitual>0.98</precioHabitual>
+                    <precioPromocion> "0.90</precioPromocion> 
+                </peras>
+                <platanos>
+                    <formato>granel</formato>
+                    <precioHabitual>1.45</precioHabitual>
+                    <precioPromocion>0.96</precioPromocion>
+                </platanos>
+                <naranjas>
+                    <formato>granel</formato>
+                    <precioHabitual>1.15</precioHabitual>
+                    <precioPromocion>0.95</precioPromocion>
+                </naranjas>
+            </fruteria>
+            <drogueria>
+                <detergente>
+                    <formato>48 lavados</formato>
+                    <precioHabitual>4.95</precioHabitual>
+                    <precioPromocion>4.88</precioPromocion>
+                </detergente>
+                <suavizante>
+                    <formato>82 lavados</formato>
+                    <precioHabitual>1.98</precioHabitual>
+                    <precioPromocion>1.85</precioPromocion>
+                </suavizante>
+                <friegaplatos>
+                    <formato>500 ml</formato>
+                    <precioHabitual>1.15</precioHabitual>
+                    <precioPromocion>0.95</precioPromocion>
+                </friegaplatos>
+                <lejia>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.90<precioHabitual>
+                    <precioPromocion>0.80</precioPromocion>
+                </lejia>
+            </drogueria>
+            <lacteos>
+                <leche>
+                    <formato>1 litro</formato>
+                    <precioHabitual>0.95</precioHabitual>
+                    <precioPromocion>0.90</precioPromocion>
+                </leche>
+                <yogures>
+                    <formato>pack 8</formato>
+                    <precioHabitual>1.25</precioHabitual>
+                    <precioPromocion>1.20</precioPromocion>
+                </yogures>
+                <queso>
+                    <formato>cuña 250</formato>
+                    <precioHabitual>1.45</precioHabitual>
+                    <precioPromocion>1.26</precioPromocion>
+                </queso>
+                <mantequilla>
+                    <formato>500 gr</formato>
+                    <precioHabitual>1.55</precioHabitual>
+                    <precioPromocion>1.45</precioPromocion>
+                </mantequilla>
+            </lacteos>                           
+        </productos>
+</supermercados>
